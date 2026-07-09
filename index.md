@@ -38,4 +38,4 @@ Track Me is a local time-tracking Chrome extension.
 
 ## Contact
 
-For questions: mknickname@mail.ru
+For questions: weblineid@gmail.com
